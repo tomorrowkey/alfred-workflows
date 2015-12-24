@@ -9,6 +9,11 @@ See blow animation to know how to use.
 
 ![](img/paste-in-android.gif)
 
+# How to install
+
+- Download latest release from https://github.com/tomorrowkey/alfred-workflows/releases
+- Click `*.alfredworkflow` file to install
+
 # LICENSE
 
 ```
