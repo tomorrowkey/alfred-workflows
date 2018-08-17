@@ -11,7 +11,7 @@ namespace :workflow do
   end
 
   def source_dirs
-    ['paste_in_android']
+    ['paste_in_android', 'clear_notification']
   end
 
   def copy_for_build(from: ,to:)
