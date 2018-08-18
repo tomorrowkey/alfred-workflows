@@ -1,6 +1,12 @@
 Alfred workflows
 ======================
 
+# Clear notification
+
+Click notification's close buttons programmatically.
+
+![](img/clear-notification.gif)
+
 # Paste in Android
 
 Android emulator clipboard is not shared with Mac. So, I made a workflow to paste clipboard text in Android from Mac.
