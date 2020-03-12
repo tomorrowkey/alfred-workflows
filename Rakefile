@@ -47,6 +47,7 @@ namespace :workflow do
         end
       }
 
+      FileUtils.mkdir_p('./dest')
       `zip -j dest/#{workflow_name}.alfredworkflow #{files.join(' ')}`
 
       logger.info "#{workflow_name} is built!"
